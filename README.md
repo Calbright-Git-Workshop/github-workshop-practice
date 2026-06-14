@@ -20,7 +20,7 @@ Add your name below during the workshop.
 ### Participants
 
 - Example Student
-
+- Thushan
 ## Repository Structure
 
 participants/
