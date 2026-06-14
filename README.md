@@ -20,6 +20,7 @@ Add your name below during the workshop.
 ### Participants
 
 - Example Student
+- Rhea Petrotta
 
 ## Repository Structure
 
