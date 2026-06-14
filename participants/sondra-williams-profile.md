@@ -2,16 +2,16 @@
 
 ## Name
 
-Your Name Here
+Sondra Williams
 
 ## Favorite Technology Tool
 
-Your answer here
+My favorite tool right now is Excel
 
 ## Why I Joined This Workshop
 
-Your answer here
+I would like to learn more about GitHub
 
 ## One Thing I Hope To Learn
 
-Your answer here
+How to navigate.
