@@ -21,6 +21,7 @@ Add your name below during the workshop.
 ### Participants
 
 - Example Student
+- Rhea Petrotta
 - Sondra Williams
 - Shadell James
 - Brandy Weaver
