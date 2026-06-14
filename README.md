@@ -1,6 +1,6 @@
 # GitHub Workshop Practice Repository
 
-Welcome!
+Welcome 
 
 This repository is designed to help students learn the basic GitHub workflow.
 
@@ -20,7 +20,8 @@ Add your name below during the workshop.
 ### Participants
 
 - Example Student
-- Shadell James 
+- Shadell James
+- new Line item 
 
 ## Repository Structure
 
