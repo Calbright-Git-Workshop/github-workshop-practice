@@ -22,6 +22,10 @@ Add your name below during the workshop.
 
 - Example Student
 - Alexander Lomeli
+- Rhea Petrotta
+- Sondra Williams
+- Shadell James
+- Brandy Weaver
 
 ## Repository Structure
 
