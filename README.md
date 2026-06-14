@@ -20,6 +20,7 @@ Add your name below during the workshop.
 ### Participants
 
 - Example Student
+- Brandy Weaver
 
 ## Repository Structure
 
