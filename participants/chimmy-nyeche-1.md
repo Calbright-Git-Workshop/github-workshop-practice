@@ -1,4 +1,4 @@
-# chimmy Nyeche
+# Chimmy Nyeche
 
 ## My Favorite Tool: 
 - Google Suites
