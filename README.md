@@ -26,6 +26,7 @@ Add your name below during the workshop.
 - Sondra Williams
 - Shadell James
 - Brandy Weaver
+- Jeunesse Monroe-Speed
 
 ## Repository Structure
 
