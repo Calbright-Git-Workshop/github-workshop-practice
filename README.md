@@ -27,6 +27,10 @@ Add your name below during the workshop.
 - Shadell James
 - Brandy Weaver
 - Kristine Molina
+- Cosette Dwyer
+- Stanley Squires
+- Romanp kaur
+- Jeunesse
 
 ## Repository Structure
 
