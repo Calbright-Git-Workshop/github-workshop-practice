@@ -26,6 +26,7 @@ Add your name below during the workshop.
 - Sondra Williams
 - Shadell James
 - Brandy Weaver
+- Kristine Molina
 
 ## Repository Structure
 
