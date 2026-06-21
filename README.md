@@ -29,6 +29,7 @@ Add your name below during the workshop.
 - Cosette Dwyer
 - Stanley Squires
 - Romanp kaur
+- Jeunesse
 
 ## Repository Structure
 
