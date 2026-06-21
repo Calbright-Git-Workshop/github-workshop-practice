@@ -6,7 +6,7 @@
  
 ##Why I joined this workshop:
 - I enjoy learning new tools for collaborating
-- Want to learn how to collaborate more efficient
+- Want to learn how to collaborate more efficiently
 
 ##One thing I hope to learn:
 - Just learned how to set up an account
