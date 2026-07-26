@@ -32,6 +32,7 @@ Add your name below during the workshop.
 - Kristine Molina
 - Cosette Dwyer
 - Stanley Squires
+- Sarah Davis
 - Tristan Gohring
 - Romanp kaur
 - Jeunesse
