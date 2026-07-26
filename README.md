@@ -22,6 +22,7 @@ Add your name below during the workshop.
 
 - Example Student
 - Alexander Lomeli
+- Brandy Weaver (Week 3)
 - Josue Guillen
 - Rhea Petrotta
 - Sondra Williams
@@ -33,6 +34,7 @@ Add your name below during the workshop.
 - Tristan Gohring
 - Romanp kaur
 - Jeunesse
+- Brandy Weaver
 - Dante
 
 ## Repository Structure
