@@ -31,6 +31,7 @@ Add your name below during the workshop.
 - Stanley Squires
 - Romanp kaur
 - Jeunesse
+- Monica Shin
 
 ## Repository Structure
 
