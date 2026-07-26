@@ -32,6 +32,7 @@ Add your name below during the workshop.
 - Stanley Squires
 - Romanp kaur
 - Jeunesse
+- Brandy Weaver
 
 ## Repository Structure
 
