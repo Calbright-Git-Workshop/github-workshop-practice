@@ -22,6 +22,7 @@ Add your name below during the workshop.
 
 - Example Student
 - Alexander Lomeli
+- Josue Guillen
 - Rhea Petrotta
 - Sondra Williams
 - Shadell James
