@@ -22,6 +22,7 @@ Add your name below during the workshop.
 
 - Example Student
 - Alexander Lomeli
+- Brandy Weaver (Week 3)
 - Rhea Petrotta
 - Sondra Williams
 - Shadell James
