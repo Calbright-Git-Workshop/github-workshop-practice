@@ -36,6 +36,7 @@ Add your name below during the workshop.
 - Tristan Gohring
 - Romanp kaur
 - Jeunesse
+- Monica Shin
 - Brandy Weaver
 - Dante
 
