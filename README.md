@@ -22,16 +22,23 @@ Add your name below during the workshop.
 
 - Example Student
 - Alexander Lomeli
+- Brandy Weaver (Week 3)
+- Josue Guillen
 - Rhea Petrotta
 - Sondra Williams
 - Shadell James
 - Brandy Weaver
+- (My name here)
 - Kristine Molina
 - Cosette Dwyer
 - Stanley Squires
+- Sarah Davis
+- Tristan Gohring
 - Romanp kaur
 - Jeunesse
 - Monica Shin
+- Brandy Weaver
+- Dante
 
 ## Repository Structure
 
