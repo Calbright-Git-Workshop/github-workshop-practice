@@ -39,6 +39,7 @@ Add your name below during the workshop.
 - Monica Shin
 - Brandy Weaver
 - Dante
+- Marcos Barceló
 - Angelica Gonzalez
 - Brandy Weaver (Week 4)
 
