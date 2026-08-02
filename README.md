@@ -42,7 +42,7 @@ Add your name below during the workshop.
 - Marcos Barceló
 - Angelica Gonzalez
 - Brandy Weaver (Week 4)
-
+- Ani Abiedu
 ## Repository Structure
 
 participants/
