@@ -39,6 +39,7 @@ Add your name below during the workshop.
 - Monica Shin
 - Brandy Weaver
 - Dante
+- Angelica Gonzalez
 
 ## Repository Structure
 
