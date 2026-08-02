@@ -40,6 +40,8 @@ Add your name below during the workshop.
 - Brandy Weaver
 - Dante
 - Marcos Barceló
+- Angelica Gonzalez
+- Brandy Weaver (Week 4)
 
 ## Repository Structure
 
